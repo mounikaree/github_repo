@@ -3,4 +3,6 @@ third line added
 fourth line added
 fifth line added
 sixth line added
+seventh line added from feature-1 branch
 seventh line from develop branch
+
